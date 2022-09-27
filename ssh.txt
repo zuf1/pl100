@@ -1,0 +1,31 @@
+Server	: ssh.au.sshmax.net
+Username	: sshmax-zufistarata
+Password	: jghjghj
+Created	: 2 Mar 2021
+Expired	: 1 Apr 2021
+OpenSSH	: 22
+OpenSSH+SSL	: 143
+Dropbear	: 80
+Dropbear+SSL	: 443
+UDPGW	: 7200, 7300
+HTTP Proxy
+Squid	: 8080, 8080, 8888
+Squid+OHP	: 5555
+Privoxy	: 3128
+Privoxy+OHP	: 5556
+
+Server	: ssh.fr.sshmax.net
+Username	: sshmax-hfdhd
+Password	: hjiot
+Created	: 2 Mar 2021
+Expired	: 1 Apr 2021
+OpenSSH	: 22
+OpenSSH+SSL	: 143
+Dropbear	: 80
+Dropbear+SSL	: 443
+UDPGW	: 7200, 7300
+HTTP Proxy
+Squid	: 8080, 8080, 8888
+Squid+OHP	: 5555
+Privoxy	: 3128
+Privoxy+OHP	: 5556
